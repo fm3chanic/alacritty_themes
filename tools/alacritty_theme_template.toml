@@ -1,0 +1,67 @@
+[colors.primary]
+background = "BackGround1"
+foreground = "ForeGround1"
+dim_foreground = "ForeGround3"
+bright_foreground = "ForeGround1"
+
+[colors.cursor]
+text = "BackGround1"
+cursor = "ForeGround1"
+
+[colors.vi_mode_cursor]
+text = "BackGround1"
+cursor = "ForeGround1"
+
+[colors.search.matches]
+foreground = "BackGround1"
+background = "HighLight2"
+
+[colors.search.focused_match]
+foreground = "BackGround1"
+background = "Main6"
+
+[colors.footer_bar]
+foreground = "BackGround1"
+background = "HighLight2"
+
+[colors.hints.start]
+foreground = "BackGround1"
+background = "Main2"
+
+[colors.hints.end]
+foreground = "BackGround1"
+background = "HighLight2"
+
+[colors.selection]
+text = "BackGround1"
+background = "HighLight3"
+
+[colors.normal]
+black = "BackGround2"
+red = "Main1"
+green = "Main6"
+yellow = "Main5"
+blue = "Main3"
+magenta = "Main2"
+cyan = "Main4"
+white = "ForeGround1"
+
+[colors.bright]
+black = "BackGround3"
+red = "Sub1"
+green = "Sub6"
+yellow = "Sub5"
+blue = "Sub3"
+magenta = "Sub2"
+cyan = "Sub4"
+white = "ForeGround3"
+
+[colors.dim]
+black = "BackGround3"
+red = "Sub1"
+green = "Sub6"
+yellow = "Sub5"
+blue = "Sub3"
+magenta = "Sub2"
+cyan = "Sub4"
+white = "ForeGround3"
