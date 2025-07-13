@@ -13,6 +13,8 @@ Themes which have been created during my project of color theming Vtubers are in
 
 ### Installation:
 
+**Installation under Linux**
+
 1. Copy the theme file to `~/.config/alacritty`.
 
 2. Add the following line to your `alacritty.toml`:
@@ -23,6 +25,19 @@ general.import = [
 ]
 ````
 3. Replace "themefilename" with the correct file name.
+
+**Installation under Windows**
+
+1. Copy the theme file to `%APPDATA%\alacritty`. (`%APPDATA%` leads to `C:\Users\YourUserName\AppData\Roaming`)
+
+2. Add the following line to your `alacritty.toml`:
+
+```
+general.import = [
+"C:/Users/YourUserName/AppData/Roaming/alacritty/themefilename.toml"
+]
+``` 
+3. Replace "themefilename" and "YourUserName" with the correct file name and your Windows user name.
 
 > [!Note]
 > If you are using another directory for your `alacritty.toml` configuration file, it might make sense to copy the theme there.
