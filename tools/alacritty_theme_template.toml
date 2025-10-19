@@ -18,7 +18,7 @@ background = "HighLight2"
 
 [colors.search.focused_match]
 foreground = "BackGround1"
-background = "Main6"
+background = "Syn4"
 
 [colors.footer_bar]
 foreground = "BackGround1"
@@ -26,7 +26,7 @@ background = "HighLight2"
 
 [colors.hints.start]
 foreground = "BackGround1"
-background = "Main2"
+background = "Syn2"
 
 [colors.hints.end]
 foreground = "BackGround1"
@@ -37,31 +37,31 @@ text = "BackGround1"
 background = "HighLight3"
 
 [colors.normal]
-black = "BackGround2"
-red = "Main1"
-green = "Main6"
-yellow = "Main5"
-blue = "Main3"
-magenta = "Main2"
-cyan = "Main4"
+black = "BackGround3"
+red = "Syn1"
+green = "Syn4"
+yellow = "Syn2"
+blue = "Syn5"
+magenta = "Syn6"
+cyan = "Syn3"
 white = "ForeGround1"
 
 [colors.bright]
 black = "BackGround3"
-red = "Sub1"
-green = "Sub6"
-yellow = "Sub5"
-blue = "Sub3"
-magenta = "Sub2"
-cyan = "Sub4"
-white = "ForeGround3"
+red = "Syn1"
+green = "Syn4"
+yellow = "Syn2"
+blue = "Syn5"
+magenta = "Syn6"
+cyan = "Syn3"
+white = "ForeGround1"
 
 [colors.dim]
 black = "BackGround3"
-red = "Sub1"
-green = "Sub6"
-yellow = "Sub5"
-blue = "Sub3"
-magenta = "Sub2"
-cyan = "Sub4"
-white = "ForeGround3"
+red = "Syn1"
+green = "Syn4"
+yellow = "Syn2"
+blue = "Syn5"
+magenta = "Syn6"
+cyan = "Syn3"
+white = "ForeGround1"
