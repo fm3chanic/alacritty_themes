@@ -1,67 +1,67 @@
 [colors.primary]
-background = "#e5e5e6"
-foreground = "#19191a"
-dim_foreground = "#4a4a4f"
-bright_foreground = "#19191a"
+background = "#ceced4"
+foreground = "#1d1d20"
+dim_foreground = "#4d4d56"
+bright_foreground = "#1d1d20"
 
 [colors.cursor]
-text = "#e5e5e6"
-cursor = "#19191a"
+text = "#ceced4"
+cursor = "#1d1d20"
 
 [colors.vi_mode_cursor]
-text = "#e5e5e6"
-cursor = "#19191a"
+text = "#ceced4"
+cursor = "#1d1d20"
 
 [colors.search.matches]
-foreground = "#e5e5e6"
-background = "#7c7c83"
+foreground = "#ceced4"
+background = "#7d7d8c"
 
 [colors.search.focused_match]
-foreground = "#e5e5e6"
-background = "#476b4b"
+foreground = "#ceced4"
+background = "#648267"
 
 [colors.footer_bar]
-foreground = "#e5e5e6"
-background = "#7c7c83"
+foreground = "#ceced4"
+background = "#7d7d8c"
 
 [colors.hints.start]
-foreground = "#e5e5e6"
-background = "#6b4db3"
+foreground = "#ceced4"
+background = "#c37d22"
 
 [colors.hints.end]
-foreground = "#e5e5e6"
-background = "#7c7c83"
+foreground = "#ceced4"
+background = "#7d7d8c"
 
 [colors.selection]
-text = "#e5e5e6"
-background = "#96969c"
+text = "#ceced4"
+background = "#9898a4"
 
 [colors.normal]
-black = "#bebec1"
+black = "#b3b3bc"
 red = "#ac393b"
-green = "#476b4b"
-yellow = "#6b4db3"
-blue = "#d95326"
-magenta = "#388694"
-cyan = "#d98b26"
-white = "#19191a"
+green = "#648267"
+yellow = "#c37d22"
+blue = "#4b879b"
+magenta = "#644e97"
+cyan = "#4b9b87"
+white = "#1d1d20"
 
 [colors.bright]
-black = "#bebec1"
+black = "#b3b3bc"
 red = "#ac393b"
-green = "#476b4b"
-yellow = "#6b4db3"
-blue = "#d95326"
-magenta = "#388694"
-cyan = "#d98b26"
-white = "#19191a"
+green = "#648267"
+yellow = "#c37d22"
+blue = "#4b879b"
+magenta = "#644e97"
+cyan = "#4b9b87"
+white = "#1d1d20"
 
 [colors.dim]
-black = "#bebec1"
+black = "#b3b3bc"
 red = "#ac393b"
-green = "#476b4b"
-yellow = "#6b4db3"
-blue = "#d95326"
-magenta = "#388694"
-cyan = "#d98b26"
-white = "#19191a"
+green = "#648267"
+yellow = "#c37d22"
+blue = "#4b879b"
+magenta = "#644e97"
+cyan = "#4b9b87"
+white = "#1d1d20"

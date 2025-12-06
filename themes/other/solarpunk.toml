@@ -1,67 +1,67 @@
 [colors.primary]
-background = "#1b2b31"
-foreground = "#dcded3"
-dim_foreground = "#adb398"
-bright_foreground = "#dcded3"
+background = "#283f48"
+foreground = "#eceee8"
+dim_foreground = "#bec2ad"
+bright_foreground = "#eceee8"
 
 [colors.cursor]
-text = "#1b2b31"
-cursor = "#dcded3"
+text = "#283f48"
+cursor = "#eceee8"
 
 [colors.vi_mode_cursor]
-text = "#1b2b31"
-cursor = "#dcded3"
+text = "#283f48"
+cursor = "#eceee8"
 
 [colors.search.matches]
-foreground = "#1b2b31"
-background = "#627a84"
+foreground = "#283f48"
+background = "#728c97"
 
 [colors.search.focused_match]
-foreground = "#1b2b31"
-background = "#B5E48C"
+foreground = "#283f48"
+background = "#afe085"
 
 [colors.footer_bar]
-foreground = "#1b2b31"
-background = "#627a84"
+foreground = "#283f48"
+background = "#728c97"
 
 [colors.hints.start]
-foreground = "#1b2b31"
-background = "#F9C74F"
+foreground = "#283f48"
+background = "#ebba47"
 
 [colors.hints.end]
-foreground = "#1b2b31"
-background = "#627a84"
+foreground = "#283f48"
+background = "#728c97"
 
 [colors.selection]
-text = "#1b2b31"
-background = "#4c5f67"
+text = "#283f48"
+background = "#5b727b"
 
 [colors.normal]
-black = "#2d4852"
-red = "#f94144"
-green = "#B5E48C"
-yellow = "#F9C74F"
-blue = "#71a2c1"
+black = "#3b5c68"
+red = "#eb474a"
+green = "#afe085"
+yellow = "#ebba47"
+blue = "#61a6d1"
 magenta = "#F0F3BD"
-cyan = "#85C1B0"
-white = "#dcded3"
+cyan = "#61d1b1"
+white = "#eceee8"
 
 [colors.bright]
-black = "#2d4852"
-red = "#f94144"
-green = "#B5E48C"
-yellow = "#F9C74F"
-blue = "#71a2c1"
+black = "#3b5c68"
+red = "#eb474a"
+green = "#afe085"
+yellow = "#ebba47"
+blue = "#61a6d1"
 magenta = "#F0F3BD"
-cyan = "#85C1B0"
-white = "#dcded3"
+cyan = "#61d1b1"
+white = "#eceee8"
 
 [colors.dim]
-black = "#2d4852"
-red = "#f94144"
-green = "#B5E48C"
-yellow = "#F9C74F"
-blue = "#71a2c1"
+black = "#3b5c68"
+red = "#eb474a"
+green = "#afe085"
+yellow = "#ebba47"
+blue = "#61a6d1"
 magenta = "#F0F3BD"
-cyan = "#85C1B0"
-white = "#dcded3"
+cyan = "#61d1b1"
+white = "#eceee8"

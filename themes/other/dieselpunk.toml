@@ -1,67 +1,67 @@
 [colors.primary]
-background = "#262626"
-foreground = "#d6ccc2"
-dim_foreground = "#ad9a85"
-bright_foreground = "#d6ccc2"
+background = "#383838"
+foreground = "#e2d2c1"
+dim_foreground = "#c4b8ab"
+bright_foreground = "#e2d2c1"
 
 [colors.cursor]
-text = "#262626"
-cursor = "#d6ccc2"
+text = "#383838"
+cursor = "#e2d2c1"
 
 [colors.vi_mode_cursor]
-text = "#262626"
-cursor = "#d6ccc2"
+text = "#383838"
+cursor = "#e2d2c1"
 
 [colors.search.matches]
-foreground = "#262626"
-background = "#7a6752"
+foreground = "#383838"
+background = "#9b856f"
 
 [colors.search.focused_match]
-foreground = "#262626"
-background = "#adad85"
+foreground = "#383838"
+background = "#99c270"
 
 [colors.footer_bar]
-foreground = "#262626"
-background = "#7a6752"
+foreground = "#383838"
+background = "#9b856f"
 
 [colors.hints.start]
-foreground = "#262626"
-background = "#a88aa1"
+foreground = "#383838"
+background = "#d1b561"
 
 [colors.hints.end]
-foreground = "#262626"
-background = "#7a6752"
+foreground = "#383838"
+background = "#9b856f"
 
 [colors.selection]
-text = "#262626"
-background = "#5c4d3d"
+text = "#383838"
+background = "#7e6c58"
 
 [colors.normal]
-black = "#404040"
+black = "#525252"
 red = "#c27070"
-green = "#adad85"
-yellow = "#a88aa1"
-blue = "#cc9966"
-magenta = "#ad8585"
-cyan = "#d1b561"
-white = "#d6ccc2"
+green = "#99c270"
+yellow = "#d1b561"
+blue = "#ad70c2"
+magenta = "#c27099"
+cyan = "#70c299"
+white = "#e2d2c1"
 
 [colors.bright]
-black = "#404040"
+black = "#525252"
 red = "#c27070"
-green = "#adad85"
-yellow = "#a88aa1"
-blue = "#cc9966"
-magenta = "#ad8585"
-cyan = "#d1b561"
-white = "#d6ccc2"
+green = "#99c270"
+yellow = "#d1b561"
+blue = "#ad70c2"
+magenta = "#c27099"
+cyan = "#70c299"
+white = "#e2d2c1"
 
 [colors.dim]
-black = "#404040"
+black = "#525252"
 red = "#c27070"
-green = "#adad85"
-yellow = "#a88aa1"
-blue = "#cc9966"
-magenta = "#ad8585"
-cyan = "#d1b561"
-white = "#d6ccc2"
+green = "#99c270"
+yellow = "#d1b561"
+blue = "#ad70c2"
+magenta = "#c27099"
+cyan = "#70c299"
+white = "#e2d2c1"
