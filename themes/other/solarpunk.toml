@@ -38,7 +38,7 @@ background = "#5b727b"
 
 [colors.normal]
 black = "#3b5c68"
-red = "#eb474a"
+red = "#d65c5e"
 green = "#afe085"
 yellow = "#ebba47"
 blue = "#61a6d1"
@@ -48,7 +48,7 @@ white = "#eceee8"
 
 [colors.bright]
 black = "#3b5c68"
-red = "#eb474a"
+red = "#d65c5e"
 green = "#afe085"
 yellow = "#ebba47"
 blue = "#61a6d1"
@@ -58,7 +58,7 @@ white = "#eceee8"
 
 [colors.dim]
 black = "#3b5c68"
-red = "#eb474a"
+red = "#d65c5e"
 green = "#afe085"
 yellow = "#ebba47"
 blue = "#61a6d1"
