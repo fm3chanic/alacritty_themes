@@ -1,5 +1,8 @@
 ## fm3chanic Themes for Alacritty
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for the Alacritty terminal emulator I've created so far.<br> 
 Alacritty is a highly configurable fast cross-plattform terminal emulator using gpu acceleration.
 
